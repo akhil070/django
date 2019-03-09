@@ -1,0 +1,10 @@
+<h3>welcome to django project word-counter</h3>
+<form action="{% url 'count' %}">
+    <textarea cols="40" rows="8" name="fulltext"></textarea>
+    <br />
+    <button>Submit</button>
+</form>
+
+<p style="text-align:center">
+    <a href="{% url 'about' %}">About</a>
+</p>

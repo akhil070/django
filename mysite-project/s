@@ -1,0 +1,32 @@
+[33mcommit 38e4fd35c3066315cfd9bd6486456aeb349b47f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 323bcc4 20c2a97
+Author: akhil <akhilrao199867@gmail.com>
+Date:   Sat Mar 9 19:00:51 2019 +0530
+
+    Merge branch 'master' of https://github.com/akhil070/django
+
+[33mcommit 323bcc45f0e4e2a47e878adf04f3859772257848[m
+Author: akhil <akhilrao199867@gmail.com>
+Date:   Sat Mar 9 18:45:01 2019 +0530
+
+    second commit
+
+[33mcommit 3b12f7308534bae331e66d7d0aafcd8b0aca952e[m
+Author: akhil <akhilrao199867@gmail.com>
+Date:   Sat Mar 9 18:30:53 2019 +0530
+
+    This my first commit to project
+
+[33mcommit 20c2a97bb234563857186bfac81dc935f449b362[m[33m ([m[1;31morigin/FixForBug[m[33m, [m[1;32mFixForBug[m[33m)[m
+Author: akhil070 <32274194+akhil070@users.noreply.github.com>
+Date:   Sat Mar 9 18:15:05 2019 +0530
+
+    word-count project
+    
+    added files by upload
+
+[33mcommit f441c683617f9d734cc4c74c70876bff88f6d093[m
+Author: akhil070 <32274194+akhil070@users.noreply.github.com>
+Date:   Sat Mar 9 18:00:27 2019 +0530
+
+    Initial commit
