@@ -1,0 +1,3 @@
+" this are sample emails include your recivers mail here along with thier name"
+samuel samuelsim@gmail.com
+jhonson jhonsonjhon@gmail.com
